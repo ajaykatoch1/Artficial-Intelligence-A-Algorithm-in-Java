@@ -1,1 +1,1 @@
-This program is written in Java.
+For this project me and my partner implemented the A* search algorithm on the 8 tile puzzle utilizing the Manhattan distance heuristic. The user inputs the start and goal state of the 8 tile puzzle and the algorithm searches for the optimal solution using A* search listing the steps taken to achieve the solution. This program is written in Java.
